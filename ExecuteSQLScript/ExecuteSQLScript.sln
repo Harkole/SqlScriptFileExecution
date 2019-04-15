@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteSQLScript", "ExecuteSQLScript\ExecuteSQLScript.csproj", "{B3D249E0-3C03-4FA1-A8A4-30536102F803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D249E0-3C03-4FA1-A8A4-30536102F803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D249E0-3C03-4FA1-A8A4-30536102F803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D249E0-3C03-4FA1-A8A4-30536102F803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D249E0-3C03-4FA1-A8A4-30536102F803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34482A8-74D5-4461-800D-2C42F80D4762}
+	EndGlobalSection
+EndGlobal
