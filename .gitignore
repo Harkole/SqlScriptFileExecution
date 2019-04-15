@@ -65,4 +65,4 @@ packages/**
 typings/**
 .vscode/**
 .awcache/**
-ExecuteSQLScript/ExecuteSQLScript/appsettings.json
+**/appsettings.json
